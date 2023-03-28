@@ -9,7 +9,7 @@ VBing is a remote sensing image dataset constructed from the Bing World Imagery 
 
 ### Fig. 1 Spatial distribution of images from the VBing
 
-![image-20230328130111559](https://github.com/GeoRSAI/VBing/blob/master/figures/spatial_distribution.jpg)
+![image-20230328130111559](https://github.com/GeoRSAI/VBing/blob/main/figures/spatial_distribution.jpg)
 
 ### Table 1 Class name
 
